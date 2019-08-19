@@ -6,6 +6,7 @@ public class Testgit {
 		//TODO Auto-generated method stub
 		
 		System.out.println("Testing");
+		System.out.println("local branch created");
 
 	}
 
