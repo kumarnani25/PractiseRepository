@@ -25,7 +25,7 @@ public class xmltest
 		
 		
 		List<XmlClass> ls=new ArrayList<XmlClass>();
-		XmlClass c=new XmlClass(openbrowser.class);
+		XmlClass c=new XmlClass(samplePractiseproject.openbrowser.class);
 		ls.add(c);
 		
 		ts.setXmlClasses(ls);
