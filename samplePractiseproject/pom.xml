@@ -82,7 +82,7 @@
 				<configuration>
 				
 				<suiteXmlFiles>
-            <suiteXmlFile>$Xmlfiles</suiteXmlFile>
+            <suiteXmlFile>$xmlFiles</suiteXmlFile>
           </suiteXmlFiles>
 				
 				<!-- <includes>
