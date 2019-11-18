@@ -17,4 +17,13 @@ public class openbrowser
 	
 	}
 	
+	@Test
+	public void test1()
+	{
+		System.setProperty("webdriver.chrome.driver", "D://chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://google.com");
+		
+	}
+	
 }

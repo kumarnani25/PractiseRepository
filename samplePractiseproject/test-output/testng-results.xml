@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5515" started-at="2019-08-19T13:15:37Z" finished-at="2019-08-19T13:15:42Z">
+  <suite name="Suite" duration-ms="9958" started-at="2019-08-30T01:29:09Z" finished-at="2019-08-30T01:29:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5515" started-at="2019-08-19T13:15:37Z" finished-at="2019-08-19T13:15:42Z">
-      <class name="samplePractiseproject.xmltest">
-        <test-method status="PASS" signature="test()[pri:0, instance:samplePractiseproject.xmltest@d56d67]" name="test" duration-ms="5498" started-at="2019-08-19T18:45:37Z" finished-at="2019-08-19T18:45:42Z">
+    <test name="Test" duration-ms="9958" started-at="2019-08-30T01:29:09Z" finished-at="2019-08-30T01:29:19Z">
+      <class name="samplePractiseproject.openbrowser">
+        <test-method status="PASS" signature="test()[pri:0, instance:samplePractiseproject.openbrowser@c0edeb]" name="test" duration-ms="9958" started-at="2019-08-30T06:59:09Z" finished-at="2019-08-30T06:59:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- samplePractiseproject.xmltest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- samplePractiseproject.openbrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
