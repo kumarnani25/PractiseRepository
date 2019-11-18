@@ -8,6 +8,7 @@ public class newclass {
 	public void test()
 	{
 		System.out.println("Name of the test");
+		System.out.println("new feature added");
 	}
 
 }
